@@ -1,0 +1,33 @@
+name: Daily AWS Digest
+
+on:
+  schedule:
+    - cron: "0 5 * * *"   # 05:00 UTC = 08:00 Greece (summer)
+  workflow_dispatch: {}    # manual trigger for testing
+
+permissions:
+  contents: write
+
+jobs:
+  digest:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install feedparser
+
+      - name: Fetch digest
+        run: python fetch_digest.py
+
+      - name: Commit & push
+        run: |
+          git config user.name "Theodosis Tsiangas"
+          git config user.email "ttsiaggas94@gmail.com"
+          git add -A
+          git diff --cached --quiet || git commit -m "digest: $(date -u +%F)"
+          git push
