@@ -5,13 +5,13 @@ Automated pipeline that tracks the [AWS "What's New"](https://aws.amazon.com/new
 ## Latest announcements
 
 <!-- LATEST:START -->
-_Last update: 2026-07-07 08:18 UTC_
+_Last update: 2026-07-08 07:25 UTC_
 
-- [Amazon SageMaker HyperPod now supports disaggregated prefill and decode](https://aws.amazon.com/about-aws/whats-new/2026/7/amazon-sagemaker-hyperpod-dpd/)
-- [Amazon Cognito now supports self-service provisioned API rate limits](https://aws.amazon.com/about-aws/whats-new/2026/07/cognito-provisioned-limits)
-- [Amazon SageMaker Studio now integrates with Hugging Face for one-click model deployment and customization](https://aws.amazon.com/about-aws/whats-new/2026/07/sagemaker-studio-hugging-face-integration/)
-- [Amazon EVS VCF 9.0 and 9.1 support](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-evs-vcf9)
-- [AWS Certificate Manager now supports the ACME protocol for public certificates](https://aws.amazon.com/about-aws/whats-new/2026/07/aws-certificate-manager-acme/)
+- [Amazon GameLift Streams introduces secure terminal access for stream sessions](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-gamelift-streams-terminal-access/)
+- [Amazon S3 Vectors is now available in AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2026/07/s3-vectors-available-aws-govcloud-regions/)
+- [AWS Security Hub extends unified security management to Microsoft Azure](https://aws.amazon.com/about-aws/whats-new/2026/06/aws-security-hub-supports-monitoring-microsoft-azure/)
+- [Amazon ECS Managed Instances reduces GPU management fees by up to 60%](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ecs-managed-instances-gpu-price/)
+- [Amazon EMR Serverless now supports larger worker sizes to run more compute and memory intensive workloads](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-emr-serverless/)
 <!-- LATEST:END -->
 
 ## How it works
