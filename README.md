@@ -5,13 +5,13 @@ Automated pipeline that tracks the [AWS "What's New"](https://aws.amazon.com/new
 ## Latest announcements
 
 <!-- LATEST:START -->
-_Last update: 2026-07-21 07:29 UTC_
+_Last update: 2026-07-22 07:31 UTC_
 
-- [AWS Data Exports now provides standardized Amazon Bedrock product metadata](https://aws.amazon.com/about-aws/whats-new/2026/07/aws-data-exports-amazon-bedrock-product-metadata/)
-- [Amazon EC2 R8i and R8i-flex instances are now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ec2-r8i-r8i-flex-instances-in-stockholm-zurich-regions/)
-- [Selectively log network activity events by identity in AWS CloudTrail](https://aws.amazon.com/about-aws/whats-new/2026/07/aws-cloudtrail-filter-useridentity-advance-selectors/)
-- [Amazon Connect delivers more natural agentic voice experiences with expanded language support and speech controls](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-connect-agentic-voice/)
-- [Amazon EC2 I8ge instances are now available in AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ec2-i8ge-instances-aws-govcloud-us-regions/)
+- [Amazon EC2 R6in and R6idn instances are now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ec2-r6in-r6idn/)
+- [Amazon EC2 C6in instances are now available in Asia Pacific (Taipei) Region](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ec2-c6in/)
+- [Amazon EC2 M6in and M6idn instances are now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ec2-m6in-m6idn/)
+- [Amazon ECS advanced deployment strategies now available in AWS European Sovereign Cloud](https://aws.amazon.com/about-aws/whats-new/2026/07/ecs-adv-deployments-eu-sovereign-cloud/)
+- [Amazon SES introduces pricing plans](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ses-pricing-plans/)
 <!-- LATEST:END -->
 
 ## How it works
