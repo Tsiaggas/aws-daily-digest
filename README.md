@@ -5,13 +5,13 @@ Automated pipeline that tracks the [AWS "What's New"](https://aws.amazon.com/new
 ## Latest announcements
 
 <!-- LATEST:START -->
-_Last update: 2026-07-27 08:25 UTC_
+_Last update: 2026-07-28 07:34 UTC_
 
-- [Amazon Connect now supports audio optimization for Azure Virtual Desktop and Windows 365 Cloud PC](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-connect/)
-- [Amazon MWAA now supports Apache Airflow version 2.11.2](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-mwaa-now-supports-apache-airflow-version-2-11-2)
-- [Amazon EC2 Dedicated Hosts now support host resource groups without self-managed licenses](https://aws.amazon.com/about-aws/whats-new/2026/07/ec2-dedicated-hosts-hrg/)
-- [Amazon Kinesis Data Streams now supports scaling down ingest capacity with warm throughput](https://aws.amazon.com/about-aws/whats-new/2026/07/kinesis/on-demand-scale-down)
-- [AWS Lambda now publishes logs for Lambda Managed Instances capacity providers](https://aws.amazon.com/about-aws/whats-new/2026/07/aws-lambda-managed-instances-logs/)
+- [Amazon Neptune now supports tag-based access control for IAM](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-neptune-tbac/)
+- [AWS Glue Data Quality now supports anomaly detection and writing results to the AWS Glue Data Catalog](https://aws.amazon.com/about-aws/whats-new/2026/07/aws-glue-data-quality-catalog-anomaly-detection-write-results)
+- [AWS Glue Data Quality now supports distribution statistics for data profiling](https://aws.amazon.com/about-aws/whats-new/2026/07/aws-glue-data-quality-distribution-profiling)
+- [Amazon GameLift Streams now supports Custom Aspect Ratio and Dynamic Resolution](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-gamelift-streams/)
+- [AWS Security Hub MCP App brings exposure findings into your AI-assisted workflow (Preview)](https://aws.amazon.com/about-aws/whats-new/2026/07/aws-security-hub-mcp-app/)
 <!-- LATEST:END -->
 
 ## How it works
