@@ -5,13 +5,13 @@ Automated pipeline that tracks the [AWS "What's New"](https://aws.amazon.com/new
 ## Latest announcements
 
 <!-- LATEST:START -->
-_Last update: 2026-07-30 07:31 UTC_
+_Last update: 2026-07-31 07:47 UTC_
 
-- [Amazon EC2 Auto Scaling now supports Instance Refresh in CloudFormation](https://aws.amazon.com/about-aws/whats-new/2026/07/ec2-auto-scaling-instance-refresh-cloudformation)
-- [Amazon Redshift Data API announces long polling, session management, and flexible batch execution](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-redshift-data-api-longpolling-listsession-flexiblebatchexecute/)
-- [AWS Glue announces VPC support, filter pushdown, and partition support for the REST API connector](https://aws.amazon.com/about-aws/whats-new/2026/07/aws-glue-rest-connector-filtering-partitioning-vpc)
-- [AWS WAF adds pre-parse text transformations and new text transformations](https://aws.amazon.com/about-aws/whats-new/2026/07/aws-waf/)
-- [AWS announces AWS Interconnect - multicloud connectivity with Oracle Cloud Infrastructure in GA](https://aws.amazon.com/about-aws/whats-new/2026/07/aws-announces-AWS-interconnect-multicloud-OCI-GA/)
+- [Amazon SageMaker Unified Studio brings richer Git version control to all project tools](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-sagemaker-unified-studio-git/)
+- [AWS Direct Connect now supports BGP route visibility on Virtual Interfaces](https://aws.amazon.com/about-aws/whats-new/2026/07/aws-direct-connect-bgp-visibility/)
+- [Amazon Redshift RG large and 12xlarge instances now available on the trailing track](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-redshift-rg-large-12xlarge-trailing-track)
+- [IAM Policy Simulator moves to the IAM console and adds additional capabilities](https://aws.amazon.com/about-aws/whats-new/2026/07/iam-policy-simulator-iam-console/)
+- [Amazon Bedrock announces up to 80% lower prices for OpenAI GPT‑5.6 models](https://aws.amazon.com/about-aws/whats-new/2026/07/openai-gpt-terra-luna-pricing-bedrock/)
 <!-- LATEST:END -->
 
 ## How it works
