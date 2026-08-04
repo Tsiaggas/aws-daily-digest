@@ -5,13 +5,13 @@ Automated pipeline that tracks the [AWS "What's New"](https://aws.amazon.com/new
 ## Latest announcements
 
 <!-- LATEST:START -->
-_Last update: 2026-08-03 08:24 UTC_
+_Last update: 2026-08-04 07:33 UTC_
 
-- [Amazon Aurora DSQL adds multi-Region cluster support in four more Regions](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-aurora-dsql-adds-multi-region-clusters-four-more-regions/)
-- [Amazon RDS for Oracle now offers Reserved Instances for R8i and M8i instances](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-rds-oracle-r8i-m8i/)
-- [Amazon Location Service adds Search Nearby support for GrabMaps in Southeast Asia](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-location-service-search-nearby-grabmaps)
-- [AWS Lambda now supports Java 8, 11, and 17 on Amazon Linux 2023](https://aws.amazon.com/about-aws/whats-new/2026/07/aws-lambda-java-amazon-linux/)
-- [Amazon CloudWatch announces managed Prometheus collectors](https://aws.amazon.com/about-aws/whats-new/2026/07/cloudwatch-managed-collectors/)
+- [AWS Transform continuous modernization is now generally available](https://aws.amazon.com/about-aws/whats-new/2026/7/aws-transform-continuous-general-available)
+- [OpenAI GPT-5.6 Sol, Terra, and Luna now support 1 million token context windows on Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2026/08/gpt-sol-terra-luna-long-context-bedrock)
+- [Amazon GameLift Streams now supports sharing streams with stream URLs](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-gamelift-streams/)
+- [AWS Resilience Hub now provides recommended resilience tests](https://aws.amazon.com/about-aws/whats-new/2026/08/aws-resilience-hub/)
+- [AWS Organizations now provides maximum account quota visibility in Service Quotas](https://aws.amazon.com/about-aws/whats-new/2026/08/aws-organizations/)
 <!-- LATEST:END -->
 
 ## How it works
