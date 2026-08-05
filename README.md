@@ -5,13 +5,13 @@ Automated pipeline that tracks the [AWS "What's New"](https://aws.amazon.com/new
 ## Latest announcements
 
 <!-- LATEST:START -->
-_Last update: 2026-08-04 07:33 UTC_
+_Last update: 2026-08-05 07:34 UTC_
 
-- [AWS Transform continuous modernization is now generally available](https://aws.amazon.com/about-aws/whats-new/2026/7/aws-transform-continuous-general-available)
-- [OpenAI GPT-5.6 Sol, Terra, and Luna now support 1 million token context windows on Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2026/08/gpt-sol-terra-luna-long-context-bedrock)
-- [Amazon GameLift Streams now supports sharing streams with stream URLs](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-gamelift-streams/)
-- [AWS Resilience Hub now provides recommended resilience tests](https://aws.amazon.com/about-aws/whats-new/2026/08/aws-resilience-hub/)
-- [AWS Organizations now provides maximum account quota visibility in Service Quotas](https://aws.amazon.com/about-aws/whats-new/2026/08/aws-organizations/)
+- [[Preview Announcement] Re-introducing Forward Proxy as AWS Network Firewall Functionality](https://aws.amazon.com/about-aws/whats-new/2026/08/aws-network-firewall-forward-proxy-preview/)
+- [Amazon Connect Customer now lets you export cases to CSV from the agent workspace](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-connect-export-cases/)
+- [Amazon Bedrock launches Web Search for OpenAI GPT models](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-bedrock-web/)
+- [Run interactive workloads on Amazon EMR on EC2 with Spark Connect](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-emr-ec2-spark-connect/)
+- [AWS Security Hub Extended adds supply chain security as its 10th category](https://aws.amazon.com/about-aws/whats-new/2026/08/aws-security-hub-extended-adds-supply-chain-security)
 <!-- LATEST:END -->
 
 ## How it works
