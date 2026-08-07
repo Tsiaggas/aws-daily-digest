@@ -5,13 +5,13 @@ Automated pipeline that tracks the [AWS "What's New"](https://aws.amazon.com/new
 ## Latest announcements
 
 <!-- LATEST:START -->
-_Last update: 2026-08-06 07:35 UTC_
+_Last update: 2026-08-07 06:06 UTC_
 
-- [AWS Lambda announces scalable network bandwidth up to 3,000 Mbps for functions outside a VPC](https://aws.amazon.com/about-aws/whats-new/2026/08/aws-lambda-network-bandwidth/)
-- [Amazon Keyspaces (for Apache Cassandra) is now available in the Canada West (Calgary) Region (ca-west-1)](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-keyspaces-apache-cassandra-canada-west/)
-- [AWS Glue Data Quality makes ETL anomaly detection free and improves anomaly predictions](https://aws.amazon.com/about-aws/whats-new/2026/08/aws-glue-data-quality-anomaly-detection-free)
-- [AWS Marketplace adds AI Insights so buyers can understand pricing before they buy](https://aws.amazon.com/about-aws/whats-new/2026/08/aws-marketplace-ai-insights/)
-- [Amazon DynamoDB now supports real-time vector search](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-dynamodb-vector-search)
+- [Amazon ECS now supports fractional GPU scheduling with Amazon EC2 G6f instances](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ecs-fractional-gpu/)
+- [AWS Lambda console extends console-to-IDE integration to Kiro and Cursor](https://aws.amazon.com/about-aws/whats-new/2026/08/aws-lambda-ide-kiro-cursor/)
+- [Amazon EC2 G7 instances are now available in the AWS Europe (Spain) Region](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-g7-available-spain)
+- [AgentCore runtime instances are now generally available](https://aws.amazon.com/about-aws/whats-new/2026/08/aws-bedrock-agentcore-runtime-instances-generally-available/)
+- [Amazon ElastiCache now supports Graviton4-based M8g, R8g, and C8gn nodes](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-elasticache-graviton4-m8g-r8g-c8gn/)
 <!-- LATEST:END -->
 
 ## How it works
