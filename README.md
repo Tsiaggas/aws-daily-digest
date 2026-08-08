@@ -5,13 +5,13 @@ Automated pipeline that tracks the [AWS "What's New"](https://aws.amazon.com/new
 ## Latest announcements
 
 <!-- LATEST:START -->
-_Last update: 2026-08-07 06:06 UTC_
+_Last update: 2026-08-08 05:38 UTC_
 
-- [Amazon ECS now supports fractional GPU scheduling with Amazon EC2 G6f instances](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ecs-fractional-gpu/)
-- [AWS Lambda console extends console-to-IDE integration to Kiro and Cursor](https://aws.amazon.com/about-aws/whats-new/2026/08/aws-lambda-ide-kiro-cursor/)
-- [Amazon EC2 G7 instances are now available in the AWS Europe (Spain) Region](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-g7-available-spain)
-- [AgentCore runtime instances are now generally available](https://aws.amazon.com/about-aws/whats-new/2026/08/aws-bedrock-agentcore-runtime-instances-generally-available/)
-- [Amazon ElastiCache now supports Graviton4-based M8g, R8g, and C8gn nodes](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-elasticache-graviton4-m8g-r8g-c8gn/)
+- [Amazon EC2 R8i and R8i-Flex instances are now available in Europe (Milan) region](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-r8i-r8i-flex/)
+- [Amazon Timestream for InfluxDB now supports backup and restore](https://aws.amazon.com/about-aws/whats-new/2026/07/timestream-influxdb-backup-restore/)
+- [Amazon Cognito now available as a skill in the Agent Toolkit for AWS](https://aws.amazon.com/about-aws/whats-new/2026/08/aws-auth-agent-skill/)
+- [AWS IAM Identity Center supports one-click multi-Region option for new organization instances](https://aws.amazon.com/about-aws/whats-new/2026/08/aws-iam-identity-center-supports-one-click-multi-region-option-new-organization-instances)
+- [Amazon VPC IPAM now supports BGP route protection monitoring and delegated RPKI for BYOIP prefixes](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-vpc-ipam-bgp-rpki-byoip/)
 <!-- LATEST:END -->
 
 ## How it works
