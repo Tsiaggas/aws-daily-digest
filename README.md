@@ -5,13 +5,13 @@ Automated pipeline that tracks the [AWS "What's New"](https://aws.amazon.com/new
 ## Latest announcements
 
 <!-- LATEST:START -->
-_Last update: 2026-08-13 06:12 UTC_
+_Last update: 2026-08-14 06:09 UTC_
 
-- [AWS Global View now offers an interactive map view for AWS Regions and AWS Local Zones](https://aws.amazon.com/about-aws/whats-new/2026/08/aws-global-view-map-view/)
-- [AWS IAM now provides role manager to set up IAM roles automatically](https://aws.amazon.com/about-aws/whats-new/2026/08/aws-iam-role-manager)
-- [Amazon EKS now supports advanced Kubernetes control plane configuration parameters](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-eks-control-plane-configuration-parameters)
-- [Amazon Quick adds deny by default for custom permissions](https://aws.amazon.com/whats-new/2026/08/amazon-quick-deny-by-default-permissions/)
-- [Amazon Connect Customer supports manual assignment of queued agent-first callbacks](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-connect-agent-callbacks/)
+- [AWS Billing and Cost Management introduces Managed Dashboards](https://aws.amazon.com/about-aws/whats-new/2026/08/aws-billing-and-cost-management-managed-dashboards/)
+- [AWS Client VPN now supports CLI, administration controls, and faster connections](https://aws.amazon.com/about-aws/whats-new/2026/08/aws-client-vpn-cli/)
+- [Claude Opus 5 is now available in AWS GovCloud (US)](https://aws.amazon.com/about-aws/whats-new/2026/07/claude-opus-5-aws-govcloud/)
+- [Amazon Quick Microsoft 365 extensions are now generally available](https://aws.amazon.com/amazon-quick-microsoft-365-extensions-generally-available)
+- [Spot Placement Score now includes Local Zones](https://aws.amazon.com/about-aws/whats-new/2026/08/spot-placement-score-local-zones/)
 <!-- LATEST:END -->
 
 ## How it works
