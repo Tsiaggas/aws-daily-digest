@@ -5,13 +5,13 @@ Automated pipeline that tracks the [AWS "What's New"](https://aws.amazon.com/new
 ## Latest announcements
 
 <!-- LATEST:START -->
-_Last update: 2026-08-28 17:06 UTC_
+_Last update: 2026-08-29 11:26 UTC_
 
-- [Amazon Aurora MySQL 3.13 (compatible with MySQL 8.0.45) is generally available](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-aurora-mysql-313-available/)
-- [Cosmos3-Edge, Cosmos3-Nano, and Cosmos3-Super models now available on Amazon SageMaker JumpStart](https://aws.amazon.com/about-aws/whats-new/2026/01/cosmos3-edge-cosmos3-nano-cosmos3-super-on-sagemaker-jumpstart/)
-- [Muse-Glimmer-30B and Qwen 3.8-27B models now available on Amazon SageMaker JumpStart](https://aws.amazon.com/about-aws/whats-new/2026/01/muse-glimmer-30b-qwen-3.8-27b-on-sagemaker-jumpstart/)
-- [Amazon Redshift streaming can now ingest 10MiB records from Amazon Kinesis Data Streams](https://aws.amazon.com/about-aws/whats-new/2026/08/redshift-streaming-supports-kds-10mib-records)
-- [Amazon Redshift integrates with Agent Toolkit for AWS for AI-assisted data warehouse management](https://aws.amazon.com/about-aws/whats-new/2026/08/redshift-agenttoolkit-for-ai-assisted-datawarehouse-mgmt)
+- [Amazon EC2 C8gn instances are now available in AWS Europe (Paris) region](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-c8gn-europe-paris/)
+- [Amazon Bedrock AgentCore Memory now supports fine-grained access control](https://aws.amazon.com/about-aws/whats-new/2026/08/agentcorememory-fine-grained-access-control)
+- [Amazon Bedrock AgentCore Memory now supports flexible namespace variables](https://aws.amazon.com/about-aws/whats-new/2026/08/agentcorememory-flexible-namespaces)
+- [AWS Transform now in scope for FedRAMP Class C](https://aws.amazon.com/about-aws/whats-new/2026/08/aws-transform-fedramp-class-c/)
+- [Amazon EC2 P6-B300 instances are now available in additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-p6-b300-instances-available-additional-regions)
 <!-- LATEST:END -->
 
 ## How it works
