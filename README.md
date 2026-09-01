@@ -5,13 +5,13 @@ Automated pipeline that tracks the [AWS "What's New"](https://aws.amazon.com/new
 ## Latest announcements
 
 <!-- LATEST:START -->
-_Last update: 2026-08-31 11:17 UTC_
+_Last update: 2026-09-01 09:42 UTC_
 
-- [Amazon EC2 C8gn instances are now available in AWS Europe (Paris) region](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-c8gn-europe-paris/)
-- [Amazon Bedrock AgentCore Memory now supports fine-grained access control](https://aws.amazon.com/about-aws/whats-new/2026/08/agentcorememory-fine-grained-access-control)
-- [Amazon Bedrock AgentCore Memory now supports flexible namespace variables](https://aws.amazon.com/about-aws/whats-new/2026/08/agentcorememory-flexible-namespaces)
-- [AWS Transform now in scope for FedRAMP Class C](https://aws.amazon.com/about-aws/whats-new/2026/08/aws-transform-fedramp-class-c/)
-- [Amazon EC2 P6-B300 instances are now available in additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-p6-b300-instances-available-additional-regions)
+- [Amazon DocumentDB now supports direct major version upgrades to version 8.0](https://aws.amazon.com/about-aws/whats-new/2026/08/documentdb-major-version-upgrade-8-0/)
+- [Partner Revenue Measurement expands service coverage for User Agent string capability](https://aws.amazon.com/about-aws/whats-new/2026/08/partner-revenue-measurement-user-agent-expansion/)
+- [AWS Agent Registry agents and MCP servers now available in Amazon Quick](https://aws.amazon.com/about-aws/whats-new/2026/08/aws-agent-registry-agents-mcp-servers-quick/)
+- [Amazon Redshift now supports AWS IAM Identity Center authentication with enhanced VPC routing](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-redshift-supports-idc-evr)
+- [Amazon Timestream for InfluxDB is now available in 8 additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-timestream-influxdb-regions/)
 <!-- LATEST:END -->
 
 ## How it works
