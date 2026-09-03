@@ -5,13 +5,13 @@ Automated pipeline that tracks the [AWS "What's New"](https://aws.amazon.com/new
 ## Latest announcements
 
 <!-- LATEST:START -->
-_Last update: 2026-09-02 09:15 UTC_
+_Last update: 2026-09-03 09:23 UTC_
 
-- [Amazon Quick now lets you build custom apps with natural language  -](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-quick-custom-apps-natural-language/)
-- [AWS Deadline Cloud now supports sharing job bundles](https://aws.amazon.com/about-aws/whats-new/2026/09/deadline-cloud/job-bundle-sharing)
-- [Amazon CloudWatch Database Insights now supports self-managed PostgreSQL](https://aws.amazon.com/about-aws/whats-new/2026/08/database-insights-self-managed-postgresql/)
-- [Amazon Kinesis Data Streams now supports a dry run feature to validate API requests](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-kinesis-data-streams-api/)
-- [AWS Backup now supports protecting more than 1,000 Amazon S3 buckets per account](https://aws.amazon.com/about-aws/whats-new/2026/09/aws-backup-more-than-1000-s3-buckets/)
+- [Web Search on Amazon Bedrock is now available in AWS GovCloud (US-West)](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-bedrock-web-aws-govcloud/)
+- [Amazon Connect Customer expands automated performance evaluations to Malay](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-connect-customer-automated-evaluations-malay/)
+- [Amazon Quick adds new tool settings and Model Context Protocol (MCP) sync support for connectors](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-quick-adds-tool-settings-mcp-sync/)
+- [Amazon Connect Customer announces general availability of agentic CX designer](https://aws.amazon.com/about-aws/whats-new/2026/09/agentic-cx-designer/)
+- [Second-generation AWS Outposts racks now in the AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2026/09/aws-outposts-govcloud-us-regions/)
 <!-- LATEST:END -->
 
 ## How it works
