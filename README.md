@@ -5,13 +5,13 @@ Automated pipeline that tracks the [AWS "What's New"](https://aws.amazon.com/new
 ## Latest announcements
 
 <!-- LATEST:START -->
-_Last update: 2026-09-08 09:18 UTC_
+_Last update: 2026-09-09 09:21 UTC_
 
-- [Amazon Bedrock Managed Knowledge Base introduces user-managed setup for SharePoint, OneDrive, and Confluence data sources](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-bedrock-managed-knowledge-base-user-managed-setup-sharepoint-onedrive-confluence/)
-- [Amazon Bedrock Managed Knowledge Base now supports ServiceNow as a native data source connector](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-bedrock-managed-knowledge-base-servicenow-native-data-source-connector/)
-- [Amazon Bedrock Managed Knowledge Base now supports automatic sync scheduling for data source connectors](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-bedrock-managed-knowledge-base-automatic-sync-scheduling-data-source-connectors/)
-- [Amazon EC2 now supports specifying compatible instance types on AMIs](https://aws.amazon.com/about-aws/whats-new/2026/09/ec2-images-supported-instances)
-- [Amazon ECS introduces Early Success Criteria for service deployments](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-ecs-deployments-early-success/)
+- [OpenAI GPT-6 Astra is now generally available on Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2026/09/openai-gpt-6-astra-on-amazon-bedrock/)
+- [Amazon Timestream for InfluxDB 3 now supports custom plugins](https://aws.amazon.com/about-aws/whats-new/2026/09/timestream-influxdb-custom-plugins/)
+- [Amazon SageMaker Feature Store now supports individual feature updates to lower write latency](https://aws.amazon.com/about-aws/whats-new/2026/08/sgm-feature-store-update-record/)
+- [AWS Transform is now available in AWS GovCloud (US-West)](https://aws.amazon.com/about-aws/whats-new/2026/09/aws-transform-govcloud-us-west/)
+- [Amazon API Gateway now supports mutual TLS for backend integrations](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-api-gateway-mutual-tls-backend/)
 <!-- LATEST:END -->
 
 ## How it works
