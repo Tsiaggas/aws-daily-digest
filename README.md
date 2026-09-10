@@ -5,13 +5,13 @@ Automated pipeline that tracks the [AWS "What's New"](https://aws.amazon.com/new
 ## Latest announcements
 
 <!-- LATEST:START -->
-_Last update: 2026-09-09 09:21 UTC_
+_Last update: 2026-09-10 09:20 UTC_
 
-- [OpenAI GPT-6 Astra is now generally available on Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2026/09/openai-gpt-6-astra-on-amazon-bedrock/)
-- [Amazon Timestream for InfluxDB 3 now supports custom plugins](https://aws.amazon.com/about-aws/whats-new/2026/09/timestream-influxdb-custom-plugins/)
-- [Amazon SageMaker Feature Store now supports individual feature updates to lower write latency](https://aws.amazon.com/about-aws/whats-new/2026/08/sgm-feature-store-update-record/)
-- [AWS Transform is now available in AWS GovCloud (US-West)](https://aws.amazon.com/about-aws/whats-new/2026/09/aws-transform-govcloud-us-west/)
-- [Amazon API Gateway now supports mutual TLS for backend integrations](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-api-gateway-mutual-tls-backend/)
+- [Amazon Connect Customer now lets you set specific capacity limits for different types of Tasks and Emails](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-connect-capacity-limits/)
+- [AWS Transform for .NET modernization is now generally available via CLI](https://aws.amazon.com/about-aws/whats-new/2026/09/aws-transform-dotnet-cli)
+- [AWS Lambda now supports 90-minute function timeout on Lambda Managed Instances](https://aws.amazon.com/about-aws/whats-new/2026/09/aws-lambda-90-minute-function/)
+- [AWS Lambda now supports Graviton5-powered EC2 instances on Lambda Managed Instances](https://aws.amazon.com/about-aws/whats-new/2026/09/aws-lambda-graviton5-ec2/)
+- [Amazon Bedrock Managed Knowledge Base adds APIs and console support for debugging document-level access control](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-bedrock-knowledge-base-debugging-document-access-control/)
 <!-- LATEST:END -->
 
 ## How it works
