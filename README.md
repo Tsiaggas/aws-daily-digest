@@ -5,13 +5,13 @@ Automated pipeline that tracks the [AWS "What's New"](https://aws.amazon.com/new
 ## Latest announcements
 
 <!-- LATEST:START -->
-_Last update: 2026-09-10 09:20 UTC_
+_Last update: 2026-09-11 09:19 UTC_
 
-- [Amazon Connect Customer now lets you set specific capacity limits for different types of Tasks and Emails](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-connect-capacity-limits/)
-- [AWS Transform for .NET modernization is now generally available via CLI](https://aws.amazon.com/about-aws/whats-new/2026/09/aws-transform-dotnet-cli)
-- [AWS Lambda now supports 90-minute function timeout on Lambda Managed Instances](https://aws.amazon.com/about-aws/whats-new/2026/09/aws-lambda-90-minute-function/)
-- [AWS Lambda now supports Graviton5-powered EC2 instances on Lambda Managed Instances](https://aws.amazon.com/about-aws/whats-new/2026/09/aws-lambda-graviton5-ec2/)
-- [Amazon Bedrock Managed Knowledge Base adds APIs and console support for debugging document-level access control](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-bedrock-knowledge-base-debugging-document-access-control/)
+- [AWS Lambda recursive loop detection is now available in Europe Sovereign Cloud](https://aws.amazon.com/about-aws/whats-new/2026/09/lambda-recursion-europe-sovereign-cloud)
+- [AWS Transform for .NET now generates unit tests for modernized code](https://aws.amazon.com/about-aws/whats-new/2026/09/aws-transform-net-unit-tests)
+- [Amazon API Gateway now supports 1 MB execution logs with configurable delivery destinations](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-api-gateway-1-mb-execution-logs/)
+- [AWS Lambda durable functions integrates with Pydantic AI](https://aws.amazon.com/about-aws/whats-new/2026/09/aws-lambda-durable-pydantic-ai/)
+- [Amazon MQ now supports RabbitMQ 4.3](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-mq-rabbitmq-43/)
 <!-- LATEST:END -->
 
 ## How it works
