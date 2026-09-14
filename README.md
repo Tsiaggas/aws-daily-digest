@@ -5,7 +5,7 @@ Automated pipeline that tracks the [AWS "What's New"](https://aws.amazon.com/new
 ## Latest announcements
 
 <!-- LATEST:START -->
-_Last update: 2026-09-13 09:55 UTC_
+_Last update: 2026-09-14 10:16 UTC_
 
 - [AWS Elemental MediaLive enables frame-accurate pipeline locking for streams without timecode](https://aws.amazon.com/about-aws/whats-new/2026/09/medialive-pipeline-locking/)
 - [Amazon EC2 X2idn instances are now available in Asia Pacific (Hong Kong)](https://aws.amazon.com/about-aws/whats-new/2026/09/ec2-x2idn-asia-pacific-hong-kong/)
