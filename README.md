@@ -5,13 +5,13 @@ Automated pipeline that tracks the [AWS "What's New"](https://aws.amazon.com/new
 ## Latest announcements
 
 <!-- LATEST:START -->
-_Last update: 2026-09-16 09:38 UTC_
+_Last update: 2026-09-17 09:46 UTC_
 
-- [Monitor cost anomalies directly in Billing and Cost Management Dashboards with the new Detected Anomalies widget](https://aws.amazon.com/about-aws/whats-new/2026/09/monitor-detected-anomalies-using-dashboards)
-- [AWS Direct Connect announces flat-rate pricing for dedicated connections](https://aws.amazon.com/about-aws/whats-new/2026/09/aws-direct-connect-announces-flat-rate-pricing/)
-- [AWS Billing Conductor now supports custom rates and usage tier pricing configurations](https://aws.amazon.com/about-aws/whats-new/2026/09/AWS-Billing-Conductor-custom-rates-usage-tier)
-- [Amazon SageMaker AI now supports instance preference lists for training and processing jobs](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-sagemaker-training-processing-instance-pref-lists/)
-- [Analyze your CloudTrail events using natural language in Amazon Q Console](https://aws.amazon.com/about-aws/whats-new/2026/09/cloudtrail-amazon-q-console/)
+- [Amazon Corretto 27 is now generally available](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-corretto-27-generally-available/)
+- [Amazon SageMaker AI now supports serverless model customization for NVIDIA Nemotron 3.5 Lightning](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-sagemaker-ft-nemotron-3-5-lightning/)
+- [AWS Client VPN is now supporting MacOS 27 Golden Gate](https://aws.amazon.com/about-aws/whats-new/2026/09/aws-client-vpn-macos-golden-gate/)
+- [New AWS experience helps builders get started and ship faster](https://aws.amazon.com/about-aws/whats-new/2026/09/New-AWS-Builder-Experience)
+- [Amazon WorkSpaces adds support for NVIDIA Blackwell GPU instances](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-workspaces-nvidia-blackwell-gpu-instances/)
 <!-- LATEST:END -->
 
 ## How it works
