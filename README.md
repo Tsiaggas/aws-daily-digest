@@ -5,13 +5,13 @@ Automated pipeline that tracks the [AWS "What's New"](https://aws.amazon.com/new
 ## Latest announcements
 
 <!-- LATEST:START -->
-_Last update: 2026-09-24 09:40 UTC_
+_Last update: 2026-09-25 09:57 UTC_
 
-- [Amazon Kinesis Data Streams announces Service-Managed Partition Keys for simplified data ingestion](https://aws.amazon.com/about-aws/whats-new/2026/09/kinesis/service-managed-partition-keys)
-- [Amazon Bedrock Managed Knowledge Base now supports Salesforce and Zendesk as native data source connectors](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-bedrock-managed-knowledge-base-salesforce-zendesk-native-data-source-connectors/)
-- [Amazon Connect Customer now provides routing step data in the analytics data lake](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-connect-routing-step-data/)
-- [Amazon EMR on EKS now supports IPv6 Amazon EKS clusters](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-emr-eks-ipv6-support)
-- [Amazon DynamoDB global tables with multi-Region strong consistency now supports additional AWS Regions and cross-continent configurations](https://aws.amazon.com/about-aws/whats-new/2026/09/dynamodb-mrsc-additional-regions/)
+- [AWS Billing and Cost Management now provides billing context for your account through a new API](https://aws.amazon.com/about-aws/whats-new/2026/09/aws-billing-and-cost-management-billing-context-api/)
+- [Amazon EventBridge relaunches event buses for enterprise scale](https://aws.amazon.com/about-aws/whats-new/2026/09/eventbridge-relaunches-custom-event-buses/)
+- [AWS Lambda durable functions are now available in AWS European Sovereign Cloud region](https://aws.amazon.com/about-aws/whats-new/2026/09/durablefunctions-european-sovereign-cloud/)
+- [Amazon RDS for MySQL announces Extended Support minor versions 5.7.44-rds.20260902 and 8.0.46-rds.20260908](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-rds-mysql-extended-support-minor-5744-8046-rds/)
+- [Amazon RDS for PostgreSQL now supports PostgreSQL 19 Beta 4 in the Amazon RDS Database Preview Environment](https://aws.amazon.com/about-aws/whats-new/2026/09/postgresql-19-beta-4-amazon-rds-database-preview-environment/)
 <!-- LATEST:END -->
 
 ## How it works
