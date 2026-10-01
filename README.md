@@ -5,13 +5,13 @@ Automated pipeline that tracks the [AWS "What's New"](https://aws.amazon.com/new
 ## Latest announcements
 
 <!-- LATEST:START -->
-_Last update: 2026-09-30 10:51 UTC_
+_Last update: 2026-10-01 11:18 UTC_
 
-- [Amazon Bedrock Managed Agents, powered by OpenAI, is now available in preview](https://aws.amazon.com/about-aws/whats-new/2026/09/bedrock-managed-agents-preview/)
-- [Amazon RDS now adds full snapshot size information to the Console and API](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-rds-full-snapshot-size-available/)
-- [OpenAI GPT-6.1 Sol is now generally available on Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2026/09/openai-gpt-6-1-sol-on-amazon-bedrock/)
-- [Amazon Connect Customer now lets business users manage more reference data to adjust contact center configurations in real time](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-connect-manage-data-tables/)
-- [Amazon WorkSpaces Applications introduces unified graphics images](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-workspaces-applications-unified-graphics-images/)
+- [Amazon WorkSpaces Core Managed Instances adds support for NVIDIA Blackwell GPU](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-workspaces-cmi-g7/)
+- [AWS CLI now supports bulk skill updates and version checks for the Agent Toolkit for AWS](https://aws.amazon.com/about-aws/whats-new/2026/09/aws-cli-agent-toolkit-update-skill/)
+- [Amazon S3 Vectors introduces metadata pre-filtering for up to 5x higher recall on filtered search](https://aws.amazon.com/about-aws/whats-new/2026/09/s3-vectors-introduces-metadata-pre-filtering/)
+- [Amazon Managed Grafana now supports creating Grafana 13.2 workspaces](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-managed-grafana-now-supports-creating-grafana-13-2-workspaces)
+- [OpenAI GPT-6 Astra now supports UltraFast mode on Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2026/09/openai-gpt-6-astra-ultrafast-on-amazon-bedrock/)
 <!-- LATEST:END -->
 
 ## How it works
