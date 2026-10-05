@@ -2,7 +2,7 @@ name: Daily AWS Digest
 
 on:
   schedule:
-    - cron: "0 5 * * *"   # 05:00 UTC = 08:00 Greece (summer)
+      - cron: "17 5 * * 1-6"   # Mon–Sat 05:17 UTC; Sunday off — AWS posts little on weekends
   workflow_dispatch: {}    # manual trigger for testing
 
 permissions:
