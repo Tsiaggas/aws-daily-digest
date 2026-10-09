@@ -36,3 +36,5 @@ auto commit & push
 ## Why
 
 I work with AWS daily (migrations, EC2, IAM) and I'm preparing for the **Solutions Architect Associate** cert — this keeps me on top of new AWS releases and doubles as a small, honest automation project.
+
+<!-- docs: add maintenance note 2026-10-09 -->
