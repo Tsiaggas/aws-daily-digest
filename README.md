@@ -5,7 +5,7 @@ Automated pipeline that tracks the [AWS "What's New"](https://aws.amazon.com/new
 ## Latest announcements
 
 <!-- LATEST:START -->
-_Last update: 2026-10-10 11:12 UTC_
+_Last update: 2026-10-12 13:13 UTC_
 
 - [AWS Security Hub now exports findings to S3 in CSV or JSON format](https://aws.amazon.com/about-aws/whats-new/2026/10/security-hub-exports-s3-csv-json/)
 - [Amazon EC2 R8gd instances are now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-ec2-r8gd-thf/)
