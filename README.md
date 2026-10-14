@@ -5,13 +5,13 @@ Automated pipeline that tracks the [AWS "What's New"](https://aws.amazon.com/new
 ## Latest announcements
 
 <!-- LATEST:START -->
-_Last update: 2026-10-13 12:44 UTC_
+_Last update: 2026-10-14 10:16 UTC_
 
-- [Amazon CloudFront now supports AWS Lambda Web Functions as an origin](https://aws.amazon.com/about-aws/whats-new/2026/10/cloudfront-lambda-web-functions-origin/)
-- [Amazon EC2 G7 instances now available in Europe (Frankfurt) and Europe (Stockholm) Regions](https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-g7-european-regions/)
-- [Amazon Connect Customer now prefills step-by-step guides for after contact work](https://aws.amazon.com/about-aws/whats-new/2026/10/connect-customer-prefills-guides-acw)
-- [AWS Lambda announces Lambda Web Functions](https://aws.amazon.com/about-aws/whats-new/2026/10/aws-lambda-web-functions/)
-- [Announcing consumption-based pricing for short-term memory in Amazon Bedrock AgentCore](https://aws.amazon.com/about-aws/whats-new/2026/10/agentcore-memory-consumption-based-pricing)
+- [AWS Security Hub now supports resource criticality for prioritization](https://aws.amazon.com/about-aws/whats-new/2026/10/security-hub-resource-criticality/)
+- [Amazon ECS adds LiveTaskCount and removes the charge for RunningTaskCount metric](https://aws.amazon.com/about-aws/whats-new/2026/10/ecs-service-metrics/)
+- [AWS Agent Registry now supports custom metadata for registry records](https://aws.amazon.com/about-aws/whats-new/2026/10/aws-agent-registry-custom-metadata-registry-records)
+- [Amazon DCV releases version 2026.0 with RHEL 10 support and new clients](https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-dcv-2026-0/)
+- [AWS Deadline Cloud now helps users find their accessible resources in the Deadline Cloud monitor](https://aws.amazon.com/about-aws/whats-new/2026/10/deadline-cloud/resources)
 <!-- LATEST:END -->
 
 ## How it works
