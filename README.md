@@ -5,7 +5,7 @@ Automated pipeline that tracks the [AWS "What's New"](https://aws.amazon.com/new
 ## Latest announcements
 
 <!-- LATEST:START -->
-_Last update: 2026-10-17 09:25 UTC_
+_Last update: 2026-10-19 10:49 UTC_
 
 - [Amazon CloudWatch log centralization now available in AWS GovCloud and additional commercial Regions](https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-cloudwatch-centralization-region-expansion)
 - [AWS Lambda durable functions are now available in AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2026/10/durablefunctions-govcloud/)
