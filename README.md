@@ -5,13 +5,13 @@ Automated pipeline that tracks the [AWS "What's New"](https://aws.amazon.com/new
 ## Latest announcements
 
 <!-- LATEST:START -->
-_Last update: 2026-10-20 10:07 UTC_
+_Last update: 2026-10-21 10:13 UTC_
 
-- [Amazon Connect Customer Global Resiliency now provides business users visibility into resiliency readiness across linked Regions](https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-connect-global-resiliency-readiness-overview)
-- [Amazon CloudWatch Omni is now available in additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-cloudwatch-omni-8-regions/)
-- [EC2 Image Builder now integrates with ASG for faster image builds](https://aws.amazon.com/about-aws/whats-new/2026/10/ec2-image-builder-asg-faster-builds/)
-- [Amazon GuardDuty adds optional threat detection rules for Runtime Monitoring](https://aws.amazon.com/about-aws/whats-new/2026/10/guardduty-runtime-optional-detection-rules/)
-- [Grok 4.7 is now available on Amazon Bedrock in AWS GovCloud (US)](https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-bedrock-grok-4-7-govcloud/)
+- [Announcing Amazon ECS Gateway, a managed ingress solution for your ECS services](https://aws.amazon.com/about-aws/whats-new/2026/10/announcing-amazon-ecs-gateway/)
+- [Amazon DynamoDB global tables now support disassociating replicas](https://aws.amazon.com/about-aws/whats-new/2026/10/dynamodb-global-tables-disassociate/)
+- [Polly Generative engine upgraded with more natural speech, 14 new voices, and 2 new languages](https://aws.amazon.com/about-aws/whats-new/2026/10/polly-generative/)
+- [AWS announces TorchNeuron: Native PyTorch Support for AWS Trainium (Public Beta)](https://aws.amazon.com/about-aws/whats-new/2026/10/aws-announce-native-pytorch-support-trainium)
+- [Structured outputs for Claude models available on Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2026/10/claude-structured-outputs-bedrock/)
 <!-- LATEST:END -->
 
 ## How it works
