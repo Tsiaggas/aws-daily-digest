@@ -5,13 +5,13 @@ Automated pipeline that tracks the [AWS "What's New"](https://aws.amazon.com/new
 ## Latest announcements
 
 <!-- LATEST:START -->
-_Last update: 2026-10-22 10:15 UTC_
+_Last update: 2026-10-23 10:08 UTC_
 
-- [AWS Transform adds storage migration assessments for Amazon S3, EBS, EFS, and FSx](https://aws.amazon.com/about-aws/whats-new/2026/10/transform-assess-s3-ebs-efs-fsx/)
-- [AWS Direct Connect announces 100G expansion in Manchester, England](https://aws.amazon.com/about-aws/whats-new/2026/10/aws-direct-connect-100g-manchester/)
-- [Amazon Aurora and Amazon RDS now support On-Demand Capacity Reservations](https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-aurora-rds-on-demand-capacity-reservations/)
-- [Amazon Cognito extends multi-Region replication to AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2026/10/cognito-multi-region-us-govcloud/)
-- [Beam model by Reflection is now available on Amazon SageMaker JumpStart and AWS Trainium](https://aws.amazon.com/about-aws/whats-new/2026/01/reflection-beam-on-sagemaker-jumpstart-and-aws-trainium/)
+- [Amazon Connect Customer now supports customizing the Customer Profiles app on the agent workspace](https://aws.amazon.com/about-aws/whats-new/2026/10/connect-customer-customize-cp)
+- [AWS Continuum for code vulnerabilities is now generally available](https://aws.amazon.com/about-aws/whats-new/2026/10/aws-continuum-for-code-vulnerabilities-is-now-generally-available)
+- [Amazon OpenSearch Serverless now supports a 5-second default refresh interval](https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-opensearch-serverless-supports-5-second-refresh-interval/)
+- [AWS CloudFormation now simplifies stack update rollback operations](https://aws.amazon.com/about-aws/whats-new/2026/10/aws-cloudformation-cdk/)
+- [Amazon SageMaker AI announces training session APIs for serverless model customization](https://aws.amazon.com/about-aws/whats-new/2026/10/training-session-apis-on-sagemaker-ai)
 <!-- LATEST:END -->
 
 ## How it works
