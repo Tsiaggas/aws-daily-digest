@@ -5,13 +5,13 @@ Automated pipeline that tracks the [AWS "What's New"](https://aws.amazon.com/new
 ## Latest announcements
 
 <!-- LATEST:START -->
-_Last update: 2026-10-27 10:38 UTC_
+_Last update: 2026-10-28 11:22 UTC_
 
-- [OpenAI GPT-6.1 Terra is now generally available on Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2026/10/openai-gpt-6-1-terra-on-amazon-bedrock/)
-- [Amazon WorkSpaces Core Managed Instances now supports ModifyVolume API](https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-workspaces-cmi-modifyvolume/)
-- [Amazon SageMaker Unified Studio adds light mode support for IDC-based domains](https://aws.amazon.com/about-aws/whats-new/2026/10/smus-light-mode)
-- [Amazon Connect Customer expands testing and simulation to validate flow action outcomes](https://aws.amazon.com/about-aws/whats-new/2026/10/connect-customer-validate-flow-actions/)
-- [Amazon Connect Customer now lets you view metrics by customer lifetime value and repeat-caller status](https://aws.amazon.com/about-aws/whats-new/2026/10/connect-customer-boma-segment/)
+- [Amazon ECS now supports GPU sharing with NVIDIA Multi-Process Service (MPS)](https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-ecs-gpu-sharing-nvidia-mps/)
+- [SageMaker MLflow Apps now support MLflow 3.16](https://aws.amazon.com/about-aws/whats-new/2026/10/mflow-version-3-16/)
+- [Amazon Aurora serverless now supports up to 384 ACUs](https://aws.amazon.com/about-aws/whats-new/2026/10/aurora-serverless-supports-384-acu/)
+- [Amazon ElastiCache for Valkey now supports changing durability on existing clusters](https://aws.amazon.com/about-aws/whats-new/2026/10/elasticache-changing-durability/)
+- [Amazon Corretto October 2026 Patch Updates](https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-corretto-oct-2026-patch-updates)
 <!-- LATEST:END -->
 
 ## How it works
