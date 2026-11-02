@@ -5,7 +5,7 @@ Automated pipeline that tracks the [AWS "What's New"](https://aws.amazon.com/new
 ## Latest announcements
 
 <!-- LATEST:START -->
-_Last update: 2026-10-31 10:56 UTC_
+_Last update: 2026-11-02 13:33 UTC_
 
 - [Amazon Bedrock expands API support and introduces Cross-Region Inferencing for OpenAI models in AWS GovCloud (US)](https://aws.amazon.com/about-aws/whats-new/2026/10/bedrock-openai-runtime-govcloud/)
 - [Web Search now available on Kiro in AWS GovCloud (US)](https://aws.amazon.com/about-aws/whats-new/2026/10/kiro-web-search-aws-govcloud-us/)
