@@ -5,13 +5,13 @@ Automated pipeline that tracks the [AWS "What's New"](https://aws.amazon.com/new
 ## Latest announcements
 
 <!-- LATEST:START -->
-_Last update: 2026-11-06 12:58 UTC_
+_Last update: 2026-11-07 11:45 UTC_
 
-- [AWS Security Hub now provides an SBOM inventory for your compute resources](https://aws.amazon.com/about-aws/whats-new/2026/11/security-hub-sbom-inventory/)
-- [AWS Interconnect - last mile announces new metro in Northern Virginia, USA](https://aws.amazon.com/about-aws/whats-new/2026/11/interconnect-last-mile-northern-virginia/)
-- [Announcing Web Answer on Amazon Bedrock AgentCore](https://aws.amazon.com/about-aws/whats-new/2026/11/web-answer-amazon-bedrock/)
-- [AWS Network Load Balancer is now available in the AWS Phoenix Local Zone](https://aws.amazon.com/about-aws/whats-new/2026/10/aws-nlb-available-phx-local-zone/)
-- [Amazon DynamoDB now supports bulk put items](https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-dynamodb-now-supports-bulk-put-items/)
+- [Kimi K3.1 Pro (Highspeed) now available on Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2026/11/moonshot-ai-kimi-k3-1-pro-on-amazon-bedrock)
+- [Agent Registry is now generally available in AWS GovCloud (US-West) Region](https://aws.amazon.com/about-aws/whats-new/2026/11/aws-agent-registry-govcloud-us-west/)
+- [Amazon MSK Replicator is now available in AWS GovCloud (US-East, US-West) Regions](https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-msk-replicator-additional-aws-regions)
+- [Amazon Redshift expands SUPER data type to store strings up to 16 million bytes](https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-redshift-expands-super-to-16-million-bytes/)
+- [AWS launches support for amortization of EC2 Capacity Blocks for ML](https://aws.amazon.com/about-aws/whats-new/2026/10/aws-ec2-capacity-blocks-ml/)
 <!-- LATEST:END -->
 
 ## How it works
