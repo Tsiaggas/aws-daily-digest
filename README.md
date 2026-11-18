@@ -5,13 +5,13 @@ Automated pipeline that tracks the [AWS "What's New"](https://aws.amazon.com/new
 ## Latest announcements
 
 <!-- LATEST:START -->
-_Last update: 2026-11-17 14:29 UTC_
+_Last update: 2026-11-18 14:05 UTC_
 
-- [Amazon ECR now replicates image deletions across regions and accounts](https://aws.amazon.com/about-aws/whats-new/2026/11/replication-deletes-amazon-ecr)
-- [Amazon EBS now supports associating additional KMS keys with snapshots](https://aws.amazon.com/about-aws/whats-new/2026/11/ebs-snapshots-associate-kms-keys/)
-- [Amazon S3 Vectors now supports hybrid search combining vector and full text for more relevant search results](https://aws.amazon.com/about-aws/whats-new/2026/11/s3-vectors-hybrid-search/)
-- [Amazon Redshift now supports multi-statement transactions, conflict resolution, and time travel for Apache Iceberg](https://aws.amazon.com/about-aws/whats-new/2026/11/redshift-time-travel-multi-statement)
-- [AWS DevOps Agent is now available in AWS GovCloud (US-West)](https://aws.amazon.com/about-aws/whats-new/2026/11/aws-devops-agent-govcloud-west/)
+- [Amazon WorkSpaces Applications adds support for smart card redirection](https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-workspaces-applications-smart-card-redirection/)
+- [Amazon EMR 8.2 is now available](https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-emr-8.2/)
+- [Introducing the Apache Spark Optimization Agent for Amazon EMR Serverless](https://aws.amazon.com/about-aws/whats-new/2026/11/apache-spark-optimization-agent/)
+- [AWS Transform now accelerates migration deals for Migration Acceleration Program (MAP) benefits](https://aws.amazon.com/about-aws/whats-new/2026/11/map-integration-with-aws-transform/)
+- [Amazon EC2 C8gn instances are now available in AWS Israel (Tel Aviv) region](https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-ec2-c8gn/)
 <!-- LATEST:END -->
 
 ## How it works
