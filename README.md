@@ -5,13 +5,13 @@ Automated pipeline that tracks the [AWS "What's New"](https://aws.amazon.com/new
 ## Latest announcements
 
 <!-- LATEST:START -->
-_Last update: 2026-11-20 14:03 UTC_
+_Last update: 2026-11-21 13:30 UTC_
 
-- [Announcing the general availability of a new AWS Local Zone in Bogotá, Colombia](https://aws.amazon.com/about-aws/whats-new/2026/11/aws-local-zone-bogota-colombia/)
-- [AWS DevOps Agent now supports Slack code channels and Microsoft Teams two-way conversations](https://aws.amazon.com/about-aws/whats-new/2026/11/aws-devops-agent-slack-code-channels-teams-two-way/)
-- [AWS Marketplace now supports agentic payments with AgentCore](https://aws.amazon.com/about-aws/whats-new/2026/11/marketplace-agentic-payments-agentcore/)
-- [Amazon Cognito now supports client ID metadata documents](https://aws.amazon.com/about-aws/whats-new/2026/11/cognito-client-id-metadata-documents/)
-- [Amazon Aurora DSQL now delivers up to 50% higher write throughput](https://aws.amazon.com/about-aws/whats-new/2026/11/aurora-dsql-higher-write-throughput/)
+- [Amazon CloudWatch Omni now supports Microsoft Azure platform logs, metrics and traces](https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-cloudwatch-omni-microsoft-azure)
+- [Web Search on Amazon Bedrock expands language support and country-aware search](https://aws.amazon.com/about-aws/whats-new/2026/11/web-search-amazon-bedrock/)
+- [Amazon RDS for Oracle now supports Primary Endpoint](https://aws.amazon.com/about-aws/whats-new/2026/11/rds-oracle-primary-endpoint-v2/)
+- [AWS Lambda now publishes Event Function state change events to Amazon EventBridge](https://aws.amazon.com/about-aws/whats-new/2026/11/aws-lambda-function-state-events/)
+- [AWS Network Firewall introduces automated Internet firewall in public preview](https://aws.amazon.com/about-aws/whats-new/2026/11/network-firewall-automated-internet/)
 <!-- LATEST:END -->
 
 ## How it works
