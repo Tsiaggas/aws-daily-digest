@@ -5,13 +5,13 @@ Automated pipeline that tracks the [AWS "What's New"](https://aws.amazon.com/new
 ## Latest announcements
 
 <!-- LATEST:START -->
-_Last update: 2026-11-24 15:55 UTC_
+_Last update: 2026-11-25 15:40 UTC_
 
-- [Amazon EC2 X8i instances are now available in the Asia Pacific (New Zealand) Region](https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-ec2-x8i-new-zealand/)
-- [AWS Sign-In introduces configurable Sign-in duration of up to 90 days](https://aws.amazon.com/about-aws/whats-new/2026/11/configurable-aws-sign-in-duration/)
-- [Amazon SageMaker HyperPod now supports managed observability and user management extensions for Slurm clusters](https://aws.amazon.com/about-aws/whats-new/2026/11/sagemaker-hyperpod-extensions/)
-- [Amazon OpenSearch Service now supports OpenSearch version 3.9](https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-opensearch-opensearch-3-9)
-- [AWS WAF introduces simplified pricing](https://aws.amazon.com/about-aws/whats-new/2026/11/aws-waf-introduces-simplified-pricing/)
+- [Amazon Bedrock adds bedrock-runtime endpoint support for OpenAI Daybreak Red in AWS GovCloud (US)](https://aws.amazon.com/about-aws/whats-new/2026/11/gpt-daybreak-red-runtime-govcloud/)
+- [Amazon OpenSearch Serverless is now available in the Africa (Cape Town) Region](https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-opensearch-serverless-available-cape-town-region/)
+- [AWS CloudFormation makes resource coverage comprehensive with 206 new types](https://aws.amazon.com/about-aws/whats-new/2026/11/cloudformation-coverage-expansion/)
+- [Amazon Connect Customer dashboards now support grouping historical metrics by time interval](https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-connect-time-interval/)
+- [Amazon RDS for SQL Server now supports up to 500 databases per instance](https://aws.amazon.com/about-aws/whats-new/2026/11/rds-sqlserver-supports-500-databases-per-instance)
 <!-- LATEST:END -->
 
 ## How it works
